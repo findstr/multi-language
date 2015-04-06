@@ -2,5 +2,5 @@
 
 a multi-language switch using lua
 
--build environment: Debian 7
--need lua5.3 library
+- build environment: Debian 7
+- need lua5.3 library
